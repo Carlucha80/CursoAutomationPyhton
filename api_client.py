@@ -7,8 +7,8 @@ HEADERS = {
 }
 
 creds = {
-    'email': 'eve.holt@reqres.in',
-    'password': 'cityslicka'
+    'email': 'carla.tester@mirows.com',
+    'password': 'ClaveSegura2026'
 }
 
 def get_users():

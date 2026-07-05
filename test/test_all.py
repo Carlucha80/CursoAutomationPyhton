@@ -33,21 +33,21 @@ def test_get_user():
 #     )
 
     # response = cretate_user(
-    #     "Bray",
-    #     "Albañil"
+    #     "Carla",
+    #     "TesterS"
     # )
 
     # assert response.status_code == 201
 
     # body = response.json()
     
-    # assert body["name"] == "Bray"
-    # assert body["job"] == "Albañil"
+    # assert body["name"] == "Carla"
+    # assert body["job"] == "TesterS"
 
 
 # def test_update_user( ):
 #     response = update_users(
-#         "Bray updated",
+#         "Carla updated",
 #         "QA Automation",
 #         2
 #     )
